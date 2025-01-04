@@ -1,0 +1,6 @@
+# avoid pushing things to github or gitlab 
+__pycache__
+*.pyc 
+.env
+env 
+test_db.db 
