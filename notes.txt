@@ -1,0 +1,2 @@
+type hints: indicate type of variables, etc : helps ide help us, helps team to understand your code and help you debug or complete your code 
+psql postgres instead of sudo -u postgres psql to create database
